@@ -24,7 +24,7 @@
 ![Dark Web Analyst](https://img.shields.io/badge/Dark%20Web-Analyst-red?style=flat-square)
 ![Digital Forensic](https://img.shields.io/badge/Digital-Forensic-orange?style=flat-square)
 ![OSINT](https://img.shields.io/badge/OSINT-Open%20Source%20Intelligence-green?style=flat-square)
-![Shodan](https://img.shields.io/badge/Shodan-Scanner-red?style=flat-square&logo=shodan)
+![Shodan](https://img.shields.io/badge/Shodan-Scanner-red?style=flat-square&logo=shodan&logoColor=white)
 
 
 
