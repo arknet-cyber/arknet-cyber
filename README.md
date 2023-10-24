@@ -2,7 +2,6 @@
 
 <!-- Cybersecurity Badges -->
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-48A646?style=flat-square&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83A7?style=flat-square&logo=nmap&logoColor=white)
@@ -25,6 +24,13 @@
 ![Digital Forensic](https://img.shields.io/badge/Digital-Forensic-orange?style=flat-square)
 ![OSINT](https://img.shields.io/badge/OSINT-Open%20Source%20Intelligence-green?style=flat-square)
 ![Shodan](https://img.shields.io/badge/Shodan-Scanner-red?style=flat-square&logo=shodan&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+![Akamai](https://img.shields.io/badge/Akamai-CDN%20&%20Cybersecurity-gray?style=flat-square&logo=akamai)
+
 
 
 
