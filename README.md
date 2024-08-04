@@ -120,9 +120,9 @@
 - :busts_in_silhouette:
 
 ### Numbers
-![arknet's Stats](https://github-readme-stats.vercel.app/api?username=arknet-cyber&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![arknet's Stats](https://github-readme-stats.vercel.app/api?username=arknet-cyber&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![arknet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arknet-cyber&theme=darcula&hide_border=true)
+![arknet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arknet-cyber&theme=dracula&hide_border=true)
 
-![arknet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arknet-cyber&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![arknet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arknet-cyber&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
