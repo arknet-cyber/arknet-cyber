@@ -106,18 +106,18 @@
 
 
 
-- :fireworks: 
-- 🔭 
-- 🌱 
-- 👯 
-- 💬 
-- 📫  
-- 😄 
-- :partying_face: 
-- :book: 
-- :wrench: 
-- :envelope_with_arrow: 
-- :busts_in_silhouette:
+- :fireworks: Celebrating my milestones and achievements in cybersecurity and tech!
+- 🔭 Currently exploring cutting-edge OSINT tools and digital forensics.
+- 🌱 Constantly learning: diving into machine learning and advanced cyber threat hunting.
+- 👯 Open to collaborating on innovative projects in OSINT, Ethical Hacking and AI.
+- 💬 Let’s talk about open-source intelligence, ethical hacking, and investigations.
+- 📫 Reach me at: info@arknet.uk
+- 😄 Fun fact: I enjoy combining tech and creativity to solve real-world problems.
+- :partying_face: Excited about every opportunity to contribute and learn.
+- :book: Favorite reads: "Intelligence Analysis in the Digital Age", "Deep Dive", "We are Bellingcat", "Five Eyes", "The Secret World", "Noise", "Thinking Fast and Slow", "Extreme Privacy", "OSINT Techniques", OccupytheWeb books
+- :wrench: Always tinkering with new tools and automating processes.
+- :envelope_with_arrow: Let’s connect and share knowledge: https://github.com/arknet-cyber
+- :busts_in_silhouette: Part of a vibrant community of tech enthusiasts and professionals.
 
 ### Numbers
 ![arknet's Stats](https://github-readme-stats.vercel.app/api?username=arknet-cyber&theme=dracula&show_icons=true&hide_border=true&count_private=true)
