@@ -84,7 +84,7 @@
 - 🌱 Constantly learning: diving into machine learning and advanced cyber threat hunting.
 - 👯 Open to collaborating on innovative projects in OSINT, Ethical Hacking and AI.
 - 💬 Let’s talk about open-source intelligence, ethical hacking, and investigations.
-- 📫 Reach me at: info@arknet.uk
+- 📫 Reach me at: info@ryananalytics.uk
 - 😄 Fun fact: I enjoy combining tech and creativity to solve real-world problems.
 - :partying_face: Excited about every opportunity to contribute and learn.
 - :book: Favorite reads: "Intelligence Analysis in the Digital Age", "Deep Dive", "We are Bellingcat", "Five Eyes", "The Secret World", "Noise", "Thinking Fast and Slow", "Extreme Privacy", "OSINT Techniques", OccupytheWeb books
